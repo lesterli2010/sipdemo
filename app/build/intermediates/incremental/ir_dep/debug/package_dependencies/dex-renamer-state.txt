@@ -1,4 +1,0 @@
-#Sat May 05 12:29:57 CST 2018
-base.0=D\:\\Android_Projects\\svn\\android\\sipdemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
-path.0=classes.dex
-renamed.0=classes.dex
