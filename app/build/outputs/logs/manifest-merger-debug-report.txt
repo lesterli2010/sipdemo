@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4a3447db45ac9e68d7bb9e57daccc0ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f51bb6b27ad0a981b79295322cda2d88\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\c68263ac3f7fdc4febb9589b476bf6c3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\95e280fe90f0bb519e76571980c3a358\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b753118b7701690c5af812adeb8269ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\85ff2236348cee311a2d1817f2258619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b56ddf2e014fc170f230ca1ec66cc34d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b28de1971717ad616be8d558d842e1af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b51567ab72ab3186925be3baf562cae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90e07d473490b717e0858f0311acab18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f0bf4a7a9c3e6ff606c895d7e7ed3812\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\257f48d45dafb71df9a02685ea096aac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\30f8b3c9ad3ffef6ee9a3caf3e6ec05a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:5-38:19
+MERGED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f51bb6b27ad0a981b79295322cda2d88\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f51bb6b27ad0a981b79295322cda2d88\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ehome.sipdemo.MainActivity
+ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+MERGED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4a3447db45ac9e68d7bb9e57daccc0ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4a3447db45ac9e68d7bb9e57daccc0ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f51bb6b27ad0a981b79295322cda2d88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f51bb6b27ad0a981b79295322cda2d88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\c68263ac3f7fdc4febb9589b476bf6c3\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\c68263ac3f7fdc4febb9589b476bf6c3\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\95e280fe90f0bb519e76571980c3a358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\95e280fe90f0bb519e76571980c3a358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b753118b7701690c5af812adeb8269ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b753118b7701690c5af812adeb8269ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\85ff2236348cee311a2d1817f2258619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\85ff2236348cee311a2d1817f2258619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b56ddf2e014fc170f230ca1ec66cc34d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b56ddf2e014fc170f230ca1ec66cc34d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b28de1971717ad616be8d558d842e1af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b28de1971717ad616be8d558d842e1af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b51567ab72ab3186925be3baf562cae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b51567ab72ab3186925be3baf562cae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90e07d473490b717e0858f0311acab18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90e07d473490b717e0858f0311acab18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f0bf4a7a9c3e6ff606c895d7e7ed3812\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f0bf4a7a9c3e6ff606c895d7e7ed3812\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\257f48d45dafb71df9a02685ea096aac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\257f48d45dafb71df9a02685ea096aac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\30f8b3c9ad3ffef6ee9a3caf3e6ec05a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lester\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\30f8b3c9ad3ffef6ee9a3caf3e6ec05a\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\svn\android\sipdemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:22-63
+uses-feature#android.hardware.audio.low_latency
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-58
+service#com.ehome.sipservice.SipService
+ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:9-37:39
+	android:enabled
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [:sipservice] D:\Android_Projects\svn\android\sipdemo\sipservice\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:13-59
